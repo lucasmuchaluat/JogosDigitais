@@ -1,4 +1,4 @@
-# BirbSimulator
+# Flup Bird
 
 ## Identidade do jogo (Conceito)
 
